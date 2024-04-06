@@ -18,8 +18,8 @@ Show the filtered image
 
 
 ## Program:
-### Developed By   :
-### Register Number:
+### Developed By   :Subhikshaa  
+### Register Number:212222230151
 </br>
 
 ### 1. Smoothing Filters
